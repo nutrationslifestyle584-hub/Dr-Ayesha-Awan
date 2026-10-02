@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Ayesha Awan - AI Receptionist & Physiotherapy Assistant",
+  "description": "Official AI Receptionist, Virtual Assistant, and Appointment Booking Portal for Dr. Ayesha Awan, Consultant Physiotherapist in Bhalwal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
